@@ -1,0 +1,13 @@
+tipo:diesel:12000:1991.6666666666667
+tipo:extra:30000:500.0
+tipo:corriente:15000:980.0
+tipo:gas:10000:2000.0
+surtidor:Camila:diesel:0.0:extra:0.0:corriente:0.0:gas:0.0
+surtidor:Juana:diesel:0.0:extra:0.0:corriente:20.0:gas:0.0
+surtidor:Camila:diesel:8.333333333333334:extra:0.0:corriente:0.0:gas:0.0
+surtidor:Juana:diesel:0.0:extra:0.0:corriente:0.0:gas:0.0
+empleado:Juana:300000
+empleado:Andres:0
+empleado:Camila:100000
+empleado:Fernando:0
+empleado:Ernesto:0
